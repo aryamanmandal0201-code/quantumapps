@@ -8,9 +8,9 @@ TaskPilot is a to-do app you run by chatting. You type things like “Add a task
 
 | | |
 |---|---|
-| Frontend | https://YOUR-APP.vercel.app |
-| Backend | https://YOUR-API.onrender.com |
-| API docs | https://YOUR-API.onrender.com/docs |
+| Frontend | https://quantumapps.vercel.app |
+| Backend | https://taskpilot-api-b4wt.onrender.com |
+| API docs | https://taskpilot-api-b4wt.onrender.com/docs |
 
 > The backend is on Render's free plan, which sleeps after 15 minutes without traffic. The first request after that can take about a minute while it wakes up; the app shows a “still working” notice while it waits.
 
@@ -18,7 +18,7 @@ TaskPilot is a to-do app you run by chatting. You type things like “Add a task
 
 | Role | Email | Password |
 |---|---|---|
-| Admin | admin@taskpilot.demo | `YOUR-ADMIN-PASSWORD` |
+| Admin | admin@taskpilot.demo | `Admin@12345` |
 | User | user@taskpilot.demo | `User@12345` |
 
 The demo user starts with a few sample tasks. You can also sign up; new accounts always get the normal user role.
